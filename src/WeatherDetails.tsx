@@ -5,7 +5,7 @@ import './Weather.css';
 const WeatherDetails: React.FC<{ weather: any }> = ({ weather }) => {
   // Define colors for each detail card
   const detailColors = {
-    Temperature: '#3498db',
+    Temperature: '#2ecc71',
     Feels_Like: '#2ecc71',
     Description: '#e74c3c',
     Humidity: '#9b59b6',
