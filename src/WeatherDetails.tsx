@@ -4,14 +4,14 @@ import './Weather.css';
 
 const WeatherDetails: React.FC<{ weather: any }> = ({ weather }) => {
   // Define colors for each detail card
-  const detailColors = {
-    Temperature: '#646c',
-    Feels_Like: '#2ecc71',
-    Description: '#e74c3c',
-    Humidity: '#9b59b6',
-    Wind: '#f39c12',
-    Visibility: '#1abc9c',
-  };
+  // const detailColors = {
+  //   Temperature: '#646c',
+  //   Feels_Like: '#2ecc71',
+  //   Description: '#e74c3c',
+  //   Humidity: '#9b59b6',
+  //   Wind: '#f39c12',
+  //   Visibility: '#1abc9c',
+  // };
 
   return (
     <div className="weather-details">
