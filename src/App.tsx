@@ -1,10 +1,9 @@
-// src/App.tsx
 import React from 'react';
 import Weather from './Weather';
 
 const App: React.FC = () => {
   return (
-    <div>
+    <div className="container"> {/* Apply the .container class here */}
       <h1>Weather App</h1>
       <Weather />
     </div>
