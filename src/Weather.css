@@ -32,7 +32,7 @@ body {
   justify-content: center; /* Center content horizontally */
   align-items: center; /* Center content vertically */
   text-align: center; /* Align text content */
-  background-image: url('https://img.freepik.com/free-photo/tree-desert-white-clouds-during-daytime_395237-190.jpg?w=1380&t=st=1710090389~exp=1710090989~hmac=58d8b2c57c198389b7c0319cdb0bb5e6af0e7c78b2779fbaf85e4feef714573e'); /* Set background image */
+  background-image: url('https://www.google.com/imgres?imgurl=https%3A%2F%2Fc4.wallpaperflare.com%2Fwallpaper%2F1023%2F370%2F544%2Fdark-landscape-lake-hd-wallpaper-preview.jpg&tbnid=eM3cInPN9yIhAM&vet=12ahUKEwjsmfa-sZKFAxUcpmMGHYUGCGoQMygJegQIARBf..i&imgrefurl=https%3A%2F%2Fwww.wallpaperflare.com%2Fdark-landscape-lake-hd-nature-wallpaper-madzv&docid=Fa6Bu4_XINE6EM&w=728&h=455&q=nature%20image%20hd%20dark&ved=2ahUKEwjsmfa-sZKFAxUcpmMGHYUGCGoQMygJegQIARBf'); /* Set background image */
   background-size: cover; /* Cover the entire background */
   background-position: center; /* Center the background image */
 }
